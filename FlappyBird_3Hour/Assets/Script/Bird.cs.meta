@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d33b3c5f5cc42fd41abe5c23c335af82
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _rigidbody: {instanceID: 0}
+  - Jump: {fileID: 8300000, guid: 78be296af618dcb4b8f698eb37163c2f, type: 3}
+  - Hit: {fileID: 8300000, guid: 5d0d26e3cc3617f448fa1f9be03bc270, type: 3}
+  - player_effect: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

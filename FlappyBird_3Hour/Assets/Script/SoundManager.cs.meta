@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2295e440f096300498efade777d997e9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - BackGround_Music: {fileID: 8300000, guid: 8d66bf2f780f72045959d68aced91a9f, type: 3}
+  - Jump_Clip: {fileID: 8300000, guid: 78be296af618dcb4b8f698eb37163c2f, type: 3}
+  - Hit_Clip: {fileID: 8300000, guid: 5d0d26e3cc3617f448fa1f9be03bc270, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
